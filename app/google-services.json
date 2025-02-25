@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352187237486",
+    "project_id": "intelliflow361",
+    "storage_bucket": "intelliflow361.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352187237486:android:574dd9e78a2619feadd27f",
+        "android_client_info": {
+          "package_name": "com.omarkarimli.intelliflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXLkm-UNhJGh85QL5N5xLDtcxC_4PgUac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
